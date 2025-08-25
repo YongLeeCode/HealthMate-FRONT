@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.expo
+.next
+web-build
+*.config.js
+*.config.cjs
+*.config.mjs
+
+
